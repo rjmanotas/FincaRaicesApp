@@ -1,7 +1,0 @@
-{
-  "name": "FincaRaicesApp",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
